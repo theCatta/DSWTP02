@@ -1,0 +1,45 @@
+﻿@model IEnumerable<TP02_MVC.Models.Bl>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2 class="display-8">Listagem Bls</h2>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Consignee)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ship)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Consignee)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ship)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Visualizar</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<center>
+<p>
+    <a asp-action="Create">Adicionar</a>
+</p>
+</center>
