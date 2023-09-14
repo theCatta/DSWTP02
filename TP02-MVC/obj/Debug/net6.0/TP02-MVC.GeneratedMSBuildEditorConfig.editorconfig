@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TP02_MVC
+build_property.RootNamespace = TP02_MVC
+build_property.ProjectDir = C:\Users\theca\Downloads\SWII6-TP02-main\SWII6-TP02-main\TP02-MVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\theca\Downloads\SWII6-TP02-main\SWII6-TP02-main\TP02-MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/theca/Downloads/SWII6-TP02-main/SWII6-TP02-main/TP02-MVC/Views/Bls/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/theca/Downloads/SWII6-TP02-main/SWII6-TP02-main/TP02-MVC/Views/Bls/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/theca/Downloads/SWII6-TP02-main/SWII6-TP02-main/TP02-MVC/Views/Bls/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/theca/Downloads/SWII6-TP02-main/SWII6-TP02-main/TP02-MVC/Views/Bls/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/theca/Downloads/SWII6-TP02-main/SWII6-TP02-main/TP02-MVC/Views/Bls/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/theca/Downloads/SWII6-TP02-main/SWII6-TP02-main/TP02-MVC/Views/Containers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFpbmVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/theca/Downloads/SWII6-TP02-main/SWII6-TP02-main/TP02-MVC/Views/Containers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFpbmVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/theca/Downloads/SWII6-TP02-main/SWII6-TP02-main/TP02-MVC/Views/Containers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFpbmVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/theca/Downloads/SWII6-TP02-main/SWII6-TP02-main/TP02-MVC/Views/Containers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFpbmVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/theca/Downloads/SWII6-TP02-main/SWII6-TP02-main/TP02-MVC/Views/Containers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFpbmVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/theca/Downloads/SWII6-TP02-main/SWII6-TP02-main/TP02-MVC/Views/Home/Credits.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVkaXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/theca/Downloads/SWII6-TP02-main/SWII6-TP02-main/TP02-MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/theca/Downloads/SWII6-TP02-main/SWII6-TP02-main/TP02-MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/theca/Downloads/SWII6-TP02-main/SWII6-TP02-main/TP02-MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/theca/Downloads/SWII6-TP02-main/SWII6-TP02-main/TP02-MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/theca/Downloads/SWII6-TP02-main/SWII6-TP02-main/TP02-MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/theca/Downloads/SWII6-TP02-main/SWII6-TP02-main/TP02-MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vpbhj8kf7c
