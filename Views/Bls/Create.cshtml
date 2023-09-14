@@ -1,0 +1,38 @@
+﻿@model TP02_MVC.Models.Bl
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2 class="display-8">Adicionar</h2>
+
+<h4>Bl</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Consignee" class="control-label"></label>
+                <input asp-for="Consignee" class="form-control" />
+                <span asp-validation-for="Consignee" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ship" class="control-label"></label>
+                <input asp-for="Ship" class="form-control" />
+                <span asp-validation-for="Ship" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <input type="submit" value="Adicionar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Voltar</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
